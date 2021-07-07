@@ -27,3 +27,7 @@ Response cards for the riskLevel slot is shown below
 ![](https://raw.githubusercontent.com/bhatt11z/Robo-advisor/main/Screen%20shots/Screenshot%202021-07-06%20at%208.54.44%20PM.png)
 
 ![](https://raw.githubusercontent.com/bhatt11z/Robo-advisor/main/Screen%20shots/Screenshot%202021-07-06%20at%208.55.58%20PM.png)
+
+**Preview**
+
+![](https://raw.githubusercontent.com/bhatt11z/Robo-advisor/main/Screen%20shots/bot-test-no-lambda.gif)
